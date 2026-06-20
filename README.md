@@ -6,7 +6,7 @@ This project analyzes the academic performance of 5,010 students using Microsoft
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard(2).png)
 
 ## Tools Used
 
